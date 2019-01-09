@@ -1,2 +1,0 @@
-# halite-zero
-S
